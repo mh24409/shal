@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Your Feed Title</title>
+  <link rel="self" href="http://huddum/xml/sample.atom"/>
+  <entry>
+    <id>564</id>
+    <title>كاش كلاسيك فاشون</title>
+    <description>منتج مصنع من خامة الفسكوز عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>سدرة</brand>
+    <price>211</price>
+    <link>http://huddum/product/kash-klasyk-fashon</link>
+    <image_link>https://huddum.shop/public/uploads/all/IykCAebzeNAfgAdfNwBkyV4YB5uhrz5ehbFKvNf2.jpg</image_link>
+  </entry>
+  <entry>
+    <id>598</id>
+    <title>عباية كم الوان</title>
+    <description>منتج مصنع من خامة الفسكوز عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>رقية</brand>
+    <price>466</price>
+    <link>http://huddum/product/aabay-km-aloan</link>
+    <image_link>https://huddum.shop/public/uploads/all/zg5XsLeq0PNnckvqnKa719WWVsdnewlauK67bLkN.png</image_link>
+  </entry>
+  <entry>
+    <id>599</id>
+    <title>عبايه فيل اسود</title>
+    <description>منتج مصنع من أقمشة عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد.</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>سدرة</brand>
+    <price>444</price>
+    <link>http://huddum/product/aabayh-fyl-asod</link>
+    <image_link>https://huddum.shop/public/uploads/all/bE2SNIT6gyfA866bUV8rh1Bac1TWuXvjX72X0XnQ.png</image_link>
+  </entry>
+  <entry>
+    <id>600</id>
+    <title>عبايا قطيفة كشكشه كحلي</title>
+    <description>منتج مصنع من أقمشة عالية الجودة التي تمنحك الشعور بالراحة والحرية فى الحركة انها تجمع بين الجودة والراحة فى ثوب واحد </description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>Shall</brand>
+    <price>466</price>
+    <link>http://huddum/product/aabaya-ktyf-kshkshh-khly</link>
+    <image_link>https://huddum.shop/public/uploads/all/E5fP9OinmpeJaTJJAZ3ZOrY8yUnUe5iXv4yN5cdT.png</image_link>
+  </entry>
+  <entry>
+    <id>601</id>
+    <title>عبايا قطيفة مربعات اسود</title>
+    <description>منتج مصنع من أقمشة عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد.</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>هايدي</brand>
+    <price>466</price>
+    <link>http://huddum/product/aabaya-ktyf-mrbaaat-asod</link>
+    <image_link>https://huddum.shop/public/uploads/all/FIdGwVXQtk9VgCiMCDX0Y0TwN5FQr7fFkDiMbKLS.png</image_link>
+  </entry>
+  <entry>
+    <id>602</id>
+    <title>عبايا قطيفة منقوش اسود</title>
+    <description>منتج مصنع من أقمشة عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد.</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>هايدي</brand>
+    <price>466</price>
+    <link>http://huddum/product/aabaya-ktyf-mnkosh-asod</link>
+    <image_link>https://huddum.shop/public/uploads/all/VUfPNvsoE2NbbDOqac3VVjbUlhXeKCMEvGbcEP4p.png</image_link>
+  </entry>
+  <entry>
+    <id>604</id>
+    <title>عبايا قطيفة ايتامين كحلي</title>
+    <description>منتج مصنع من أقمشة عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد.</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>سدرة</brand>
+    <price>466</price>
+    <link>http://huddum/product/aabaya-ktyf-aytamyn-khly</link>
+    <image_link>https://huddum.shop/public/uploads/all/Z8wLS4uy4DyDq9476YMl8tl0gHzQauggXgWnIpeh.png</image_link>
+  </entry>
+  <entry>
+    <id>605</id>
+    <title>عبايا قطيفة شريط اسود</title>
+    <description>منتج مصنع من أقمشة عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد.</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>سدرة</brand>
+    <price>522</price>
+    <link>http://huddum/product/aabaya-ktyf-shryt-asod</link>
+    <image_link>https://huddum.shop/public/uploads/all/7fNE8OvhHuDqaGKSE7MZY6hRXMbIJrdHbT6rvKts.png</image_link>
+  </entry>
+  <entry>
+    <id>606</id>
+    <title>عباية قطيفة فراشه اسود</title>
+    <description>منتج مصنع من أقمشة عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد. </description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>سدرة</brand>
+    <price>533</price>
+    <link>http://huddum/product/aabaya-ktyf-frashh-asod</link>
+    <image_link>https://huddum.shop/public/uploads/all/t1YOMQt5L6Zo9nVmFH9WQgCz3xyLULDzNJrmnwKO.png</image_link>
+  </entry>
+  <entry>
+    <id>607</id>
+    <title>عبايه فسكوز خطوط بيضاء</title>
+    <description>منتج مصنع من أقمشة عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد</description>
+    <availability>InStock</availability>
+    <condition>new</condition>
+    <brand>سدرة</brand>
+    <price>433</price>
+    <link>http://huddum/product/aabaya-fskoz-khtot-bydaaa-1</link>
+    <image_link>https://huddum.shop/public/uploads/all/5xJQhwaeZj8akjsPBXuTDliCWKdGtZoRzdEPH3eN.png</image_link>
+  </entry>
+</feed>

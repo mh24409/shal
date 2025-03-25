@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>last</title>
+  <link rel="self" href="http://huddum/xml/sample.atom"/>
+  <entry>
+    <g:id>564</g:id>
+    <g:title>كاش كلاسيك فاشون</g:title>
+    <g:description>منتج مصنع من خامة الفسكوز عالية الجودة، التي تمنحك شعورا بالراحة والحرية في الحركة. إنها تجمع بين الجودة والراحة في ثوب واحد</g:description>
+    <g:availability>InStock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>سدرة</g:brand>
+    <g:price>211</g:price>
+    <g:link>http://huddum/product/kash-klasyk-fashon</g:link>
+    <g:image_link>https://huddum.shop/public/uploads/all/IykCAebzeNAfgAdfNwBkyV4YB5uhrz5ehbFKvNf2.jpg</g:image_link>
+  </entry>
+</feed>
